@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-hooks-mock-code-challenge-gregslist/static/css/main.9c472eea.css",
+    "main.js": "/react-hooks-mock-code-challenge-gregslist/static/js/main.d7e37cbd.js",
+    "index.html": "/react-hooks-mock-code-challenge-gregslist/index.html",
+    "main.9c472eea.css.map": "/react-hooks-mock-code-challenge-gregslist/static/css/main.9c472eea.css.map",
+    "main.d7e37cbd.js.map": "/react-hooks-mock-code-challenge-gregslist/static/js/main.d7e37cbd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c472eea.css",
+    "static/js/main.d7e37cbd.js"
+  ]
+}
