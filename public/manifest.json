@@ -1,4 +1,5 @@
 {
+  "manifest_version": 2,
   "short_name": "gregslist",
   "name": "React Mock Code Challenge",
   "icons": [
